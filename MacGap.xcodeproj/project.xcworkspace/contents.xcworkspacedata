@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MG.xcodeproj">
+      location = "self:/Users/Jeff/workspace/HybridApps/MacGap/MacGap2-master/MacGap.xcodeproj">
    </FileRef>
 </Workspace>
